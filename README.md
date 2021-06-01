@@ -1,3 +1,3 @@
-# Home expenses scrapper - Prototype
+# Home expenses scrapper
 
 Puppeteer scrapper demo 
